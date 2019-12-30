@@ -9,5 +9,5 @@ NCM enhances your experience using many methods:
 
 3. Notes debris that are higher up on the grid are given a shorter lifetime, so that they don't block your vision when you cut them.
 
-Video comparison:
+Video of methods 1 and 3:
 https://www.youtube.com/watch?v=cpb2tXtMrqA

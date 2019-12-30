@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Files\Programming\Rider\NoteCutMinimizer" t="IncludeFlat">
+      <e p="NoteCutMinimizer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="manifest.json" t="Include" />
+        <e p="NCMSettings.cs" t="Include" />
+        <e p="NoteCutMinimizer.csproj" t="IncludeRecursive" />
+        <e p="NoteDebrisPatch.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Plugin.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="ReflectionUtil.cs" t="Include" />
+      </e>
+      <e p="NoteCutMinimizer.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\circu\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\circu\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_NoteCutMinimizer.283711367.00" t="ExcludeRecursive" />
+  </component>
+</project>

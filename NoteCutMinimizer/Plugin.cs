@@ -17,7 +17,7 @@ namespace NoteCutMinimizer
         private HarmonyInstance _harmony;
         
         public string Name => "NoteCutMinimizer";
-        public string Version => "1.1.0";
+        public string Version => "1.1.1";
 
 
 

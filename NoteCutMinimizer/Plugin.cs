@@ -87,7 +87,6 @@ namespace NoteCutMinimizer
 
         public void OnSceneUnloaded(Scene scene)
         {
-            throw new NotImplementedException();
         }
     }
 }

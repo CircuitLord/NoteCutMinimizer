@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2174c343-f25c-4ee0-9a4d-9575bb3c7706" name="Default Changelist" comment="" />
+    <list default="true" id="2174c343-f25c-4ee0-9a4d-9575bb3c7706" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NoteCutMinimizer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NoteCutMinimizer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoteCutMinimizer/Plugin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NoteCutMinimizer/Plugin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoteCutMinimizer/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NoteCutMinimizer/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoteCutMinimizer/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/NoteCutMinimizer/manifest.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,20 +19,27 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/046D6B58-C768-4BED-A4F9-15AA7296B655/76/ed697493/NoteDebris.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NoteCutMinimizer/NCMSettings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B072C28-D080-4E3E-8741-F43DE2D5AEC4/52/5456ad70/Logger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NoteCutMinimizer/manifest.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NoteCutMinimizer/ReflectionUtil.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/046D6B58-C768-4BED-A4F9-15AA7296B655/38/61e3e1b9/NoteDebrisSpawner.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NoteCutMinimizer/Plugin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NoteCutMinimizer/NoteDebrisPatch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NoteCutMinimizer/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NoteCutMinimizer/Plugin.cs" />
         <option value="$PROJECT_DIR$/NoteCutMinimizer/NCMSettings.cs" />
         <option value="$PROJECT_DIR$/NoteCutMinimizer/NoteDebrisPatch.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/NoteCutMinimizer/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/NoteCutMinimizer/Plugin.cs" />
+        <option value="$PROJECT_DIR$/NoteCutMinimizer/manifest.json" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1VfxTlpojuWVbHZz5HvKTrm4YHK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -78,7 +90,7 @@
       <workItem from="1577657961928" duration="50000" />
       <workItem from="1577658120341" duration="4455000" />
       <workItem from="1577662595349" duration="365000" />
-      <workItem from="1577662967952" duration="1926000" />
+      <workItem from="1577662967952" duration="3018000" />
     </task>
     <servers />
   </component>
@@ -100,6 +112,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="361" y="342" key="SettingsEditor/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1577658010999" />
+    <state x="538" y="441" width="644" height="526" key="find.popup" timestamp="1577667231194">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="538" y="441" width="644" height="526" key="find.popup/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1577667231194" />
     <state x="531" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1577665031650">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

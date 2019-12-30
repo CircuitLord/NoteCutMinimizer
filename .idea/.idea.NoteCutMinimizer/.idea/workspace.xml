@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/046D6B58-C768-4BED-A4F9-15AA7296B655/76/ed697493/NoteDebris.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NoteCutMinimizer/NCMSettings.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="discord-application" />
   </component>
@@ -96,9 +100,9 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="361" y="342" key="SettingsEditor/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1577658010999" />
-    <state x="531" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1577663001028">
+    <state x="531" y="319" width="672" height="678" key="search.everywhere.popup" timestamp="1577665031650">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="531" y="319" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1577663001028" />
+    <state x="531" y="319" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1577665031650" />
   </component>
 </project>
